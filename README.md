@@ -4,7 +4,7 @@
 
 WeirdScript is Script-based programming language that written on C++
 
-WeirdScript v similar to Batch-script
+WeirdScript very similar to Batch-script
 
 # ⚠️ WARNING ⚠️
 
