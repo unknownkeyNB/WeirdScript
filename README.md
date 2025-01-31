@@ -8,11 +8,11 @@ WeirdScript v similar to Batch-script
 
 # ⚠️ WARNING ⚠️
 
-WeirdScript is currently in **Beta** stage. Some features may be missing or break, so use with caution!
+WeirdScript is currently in **Beta** stage. Some features may be break, so use with caution!
 
 Compile:
 
-```bash
+```WeirdScript
 No compile needed!
 just download a WeirdScript at Releases tab!
 ```
