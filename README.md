@@ -1,12 +1,10 @@
 # WeirdScript
 
-//place for a image
+!!place for a image!!
 
-WeirdScript is Script-based programming language that written using Scrap
+WeirdScript is Script-based programming language that written on C++
 
-WeirdScript is something similar to Batch-script
-
-You can download Scrap at https://github.com/Grisshink/scrap/
+WeirdScript v similar to Batch-script
 
 # ⚠️ WARNING ⚠️
 
@@ -18,6 +16,6 @@ Compile:
 No compile needed!
 just download a WeirdScript at Releases tab!
 ```
-## License
+# License
 
 All WeirdScript code is licensed under the terms of GPLv3 license
